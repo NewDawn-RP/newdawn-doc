@@ -19,6 +19,10 @@ Votre meilleur ami sur New Dawn sera le panel d'administration ou TxAdmin. En ef
 - Restart / Stop / Start le serveur
 - Et d'autres choses..
 
+### Contribuer à la documentation
+
+Pour contribuer à la document vous pouvez utilser cet outil : [StackEdit](https://stackedit.io/app) pour la mie en page. Toutes vos modifications devront être envoyé sur le [Github de la doc](https://github.com/NewDawn-RP/newdawn-doc)
+
 ### Créer un item
 
 Tout notre système d'inventaire utilise un script créé par l'équipe d'[Overextended](https://github.com/overextended). Le script en question est l'[Ox_Inventory](https://overextended.github.io/docs/ox_inventory), heuresement pour nous l'équipe d'**OX** a créé une belle documentation disponible ici : [Documentation](https://overextended.github.io/docs/)

@@ -1,4 +1,3 @@
-
 ---
 sidebar_position: 4
 title: Liste des items

@@ -30,7 +30,7 @@ Les paramètres sont les suivants
 -- Pour se donner une M4
 /giveitem me weapon_carbinerifle 1 
 
--- Pour donner un burger au joueur n°2
+-- Pour donner 4 burgers au joueur n°2
 /giveitem 2 burger 4
 ```
 

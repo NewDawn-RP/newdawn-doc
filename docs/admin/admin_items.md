@@ -10,6 +10,6 @@ La liste complète est disponible a [cette page](https://github.com/NewDawn-RP/o
 
 Sinon rendez vous sur les liens :
 
-Légal :
+Légal : https://docs.google.com/spreadsheets/d/1rkXii4t1NE-wtR7IQ8B1yAy6ACT_rOnIlO6cv8TCm4I/edit#gid=21002388
 
 Illégal : https://docs.google.com/spreadsheets/d/1Iwrlw0l_Vdm31bS_2n3e6L7EgUbSjlolW8ilgiF0b3E/edit#gid=0

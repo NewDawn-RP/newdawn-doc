@@ -15,6 +15,7 @@ Ouais désolé, encore de la documentation mais bon voilà !
 - [Liste des Véhicules GTA:V](https://wiki.rage.mp/index.php?title=Vehicles)
 - [Liste des Armes GTA:V](https://wiki.rage.mp/index.php?title=Weapons)
 - [Liste des Animations GTA:V](https://wiki.rage.mp/index.php?title=Animations)
+- [Site de nombreuses resources FiveM](https://forge.plebmasters.de/)
 - [Documentation FiveM](https://docs.fivem.net/natives/)
 - [Forum de FiveM](http://forum.cfx.re)
 

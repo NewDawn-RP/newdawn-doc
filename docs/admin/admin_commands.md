@@ -36,7 +36,7 @@ Les paramètres sont les suivants
 
 ## Commandes de Set
 
-### Se mettre un job
+### S'attribuer un job
 
 Cette commande vous permet de vous donner une arme ou un objet
 
@@ -62,5 +62,30 @@ Les paramètres sont les suivants
 /setjob 2 taxi 2
 ```
 
+### S'attribuer une faction
+
+Cette commande vous permet de vous donner une arme ou un objet
+
+```lua
+/setfaction [ID] [NomDeLaFaction] [NuméroGrade]
+```
+
+Les paramètres sont les suivants 
+
+*ID* : ID du joueur voulu. Vous pouvez utiliser le mot-clé **me** au lieu de l'id lorsque vous souhaitez faire la commande sur vous-même
+
+*NomDeLaFaction* : Nom de la faction souhaitée, par exemple *mafia* ou *cartel*
+
+*NuméroGrade* : Tout simplement le numéro du grade souhaité, par exemple : 2 
+
+#### Exemple d'utilisation
+
+```lua
+-- Pour se mettre la faction cartel et le grade 1
+/setfaction me cartel 1 
+
+-- Pour mettre la faction mafia et le grade 1 au joueur n°2
+/setfaction 2 mafia 2
+```
 
 ## Commandes Autres

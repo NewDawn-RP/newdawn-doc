@@ -34,7 +34,7 @@ Les paramètres sont les suivants
 /giveitem 2 burger 4
 ```
 
-## Commandes de Set
+## Commandes d'attribution
 
 ### S'attribuer un job
 
